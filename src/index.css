@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.separator {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 16px 0;
+    /* Ajusta el margen según tus necesidades */
+}
